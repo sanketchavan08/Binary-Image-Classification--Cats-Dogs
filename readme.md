@@ -1,0 +1,1 @@
+In this project I have created the CNN architecture to classify dogs and cats from images. You have have to pass in a picture of dog or cat and this CNN architecture will predict that if given image is cat or dog.
